@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Henrique Soto</h1>
-<p align="left"></p>
+<p align="center"></p>
 
 - 🔥 Desenvolvedor Front-End Junior e [Programador Aos 30](https://www.twitch.tv/programadoraos30)
 
@@ -7,14 +7,17 @@
 
 - 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
 
-- ▶️ Criador de conteudo, tanto na [TWITCH](https://www.twitch.tv/programadoraos30) quanto no [YOUTUBE](https://youtube.com/ProgramadorAos30)
+- ▶️ Criador de conteudo, tanto na 📺[TWITCH](https://www.twitch.tv/programadoraos30) quanto no 🎬[YOUTUBE](https://youtube.com/ProgramadorAos30)
 
 - 👨‍💻 Saiba mais em [programadoraos30.com.br](https://programadoraos30.com.br/)
+<br>
 
+![Henrique Soto github stats](https://github-readme-stats.vercel.app/api?username=henriquesoto92&count_private=true&show_icons=true&theme=tokyonight)
 
-## Contact
+<br>
+<h2 align="center"> Contact </h2>
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://www.linkedin.com/in/henriquesoto92/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HenriqueSoto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
