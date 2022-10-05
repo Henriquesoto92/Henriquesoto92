@@ -12,8 +12,6 @@
 - 👨‍💻 Saiba mais em [programadoraos30.com.br](https://programadoraos30.com.br/)
 <br>
 
-![Henrique Soto github stats](https://github-readme-stats.vercel.app/api?username=henriquesoto92&count_private=true&show_icons=true&theme=tokyonight)
-
 <br>
 <h2 align="center"> Contact </h2>
 
