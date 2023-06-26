@@ -19,9 +19,6 @@
 <a href="https://www.linkedin.com/in/henriquesoto92/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HenriqueSoto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/HenriqueSoto92M" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-HenriqueSoto-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="https://youtube.com/ProgramadorAos30" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ProgramadorAos30-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
