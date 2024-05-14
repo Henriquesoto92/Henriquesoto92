@@ -1,26 +1,26 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou Henrique Soto</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'm Henrique Soto</h1>
 <p align="center"></p>
 
-- 🔥 Desenvolvedor Front-End Junior e [Programador Aos 30](https://www.twitch.tv/programadoraos30)
+- 🔥 Software Engineer, Full-Stack Developer and [Programador Aos 30](https://www.twitch.tv/programadoraos30)
 
-- 🔭 Trabalho Atualmente para [Cria Digital](https://www.linkedin.com/company/criadesign)
+- 🔭 I currently working on [Cria Digital](https://www.linkedin.com/company/criadesign)
 
-- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
+- ▶️ Stream 📺[TWITCH](https://www.twitch.tv/programadoraos30).
 
-- ▶️ Criador de conteudo, tanto na 📺[TWITCH](https://www.twitch.tv/programadoraos30) quanto no 🎬[YOUTUBE](https://youtube.com/ProgramadorAos30)
+- 🖥️ Front-end Experience: Typescript, Javascript, React.js, Next.js, Mantine.ui, Chakra.ui, Tailwind, Rest.api, HTML, CSS, SEO, Redux, React Query, Solid.
 
-- 👨‍💻 Saiba mais em [programadoraos30.com.br](https://programadoraos30.com.br/)
+- 💻 Back-end Experience: Node.js, Typescript, Nest.js, MYSQL.
+
+- 📱 Mobile: React Native.
+
 <br>
 
 <br>
 <h2 align="center"> Contact </h2>
 
-<p align="center" style="background:yellow">
+<p align="center">
 <a href="https://www.linkedin.com/in/henriquesoto92/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-HenriqueSoto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://youtube.com/ProgramadorAos30" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ProgramadorAos30-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Aprendendo Sempre novos Recursos, Atualmente aprendendo React.JS, TypeScrypt, Api.rest.
+- 👨‍💻 Saiba mais em [programadoraos30.com.br](https://programadoraos30.com.br/)
 -->
